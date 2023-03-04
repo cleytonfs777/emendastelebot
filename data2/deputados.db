@@ -1,0 +1,20 @@
+{
+    "_default": {
+        "1": {
+            "nomeuser": "Grego",
+            "user_ident": 5590932556,
+            "data": "02/03/2023",
+            "rep_dep": "",
+            "is_writable": false,
+            "tipo": "deputado"
+        },
+        "2": {
+            "nomeuser": "Nicolas Ferreira",
+            "user_ident": 1107580168,
+            "data": "02/03/2023",
+            "rep_dep": "",
+            "is_writable": true,
+            "tipo": "A"
+        }
+    }
+}

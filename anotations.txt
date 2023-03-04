@@ -1,0 +1,4 @@
+ngrok http 8000
+
+api.telegram.org/bot<-TOKEN->/setWebhook?url=<-URL NGROK->
+
